@@ -54,9 +54,10 @@
 
 <div align="center">
   <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aryamaddy&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aryamaddy&show_icons=true&theme=radium" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryamaddy&theme=radium" alt="GitHub Streak" />
 </div>
 
 ---
+
