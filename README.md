@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in](https://www.linkedin.com/in/arya-sumit-917396409/)/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arya-sumit-917396409/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:m7009050@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://YOUR_PORTFOLIO_LINK.com"><img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logoColor=white" /></a>
 </p>
